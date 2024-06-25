@@ -1,3 +1,4 @@
+--4. Escreva as seguintes consultas e comandos SQL:
 -- a. Listar todos os hotéis e seus respectivos quartos, apresentando os seguintes campos: para hotel, nome e cidade; para quarto, tipo e preco_diaria;
 SELECT h.nome AS hotel_nome, h.cidade, q.tipo, q.preco_diaria
 FROM Hotel h
