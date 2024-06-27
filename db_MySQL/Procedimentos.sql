@@ -1,4 +1,4 @@
---5. Efetue a criação dos seguintes procedimentos usando PL/MySQL:
+-- 5. Efetue a criação dos seguintes procedimentos usando PL/MySQL:
 -- a. Criar uma procedure chamada "RegistrarCheckIn" que aceita hospedagem_id e data_checkin como parâmetros. A procedure deve atualizar a data de check-in na tabela "Hospedagem" e mudar o status_hosp para "hospedado".​
 DELIMITER //
 

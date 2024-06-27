@@ -1,4 +1,4 @@
---6. Efetue a criação das seguintes funções utilizando PL/MySQL:
+-- 6. Efetue a criação das seguintes funções utilizando PL/MySQL:
 -- a. Criar uma function chamada "TotalHospedagensHotel" que aceita hotel_id como parâmetro. A função deve retornar o número total de hospedagens realizadas em um determinado hotel.​
 DELIMITER //
 

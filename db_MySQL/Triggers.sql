@@ -1,4 +1,4 @@
---7. Efetue a criação das seguintes triggers utilizando PL/MySQL:
+-- 7. Efetue a criação das seguintes triggers utilizando PL/MySQL:
 -- a. Criar um trigger chamado "AntesDeInserirHospedagem" que é acionado antes de uma inserção na tabela "Hospedagem". O trigger deve verificar se o quarto está disponível na data de check-in. Se não estiver, a inserção deve ser cancelada.
 DELIMITER //
 
